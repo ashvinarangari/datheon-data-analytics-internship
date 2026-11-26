@@ -1,10 +1,11 @@
-# Superstore Retail Sales — Exploratory Data Analysis
-Superstore sales analysis using Python, Pandas, and Seaborn | Datheon Task 1
+# Datheon Data Analytics Internship
 
-A Python EDA project completed for Task 1 of the Datheon Data Analytics internship.
+# Task 1: Superstore Sales Exploratory Data Analysis
+
+A Python EDA project completed for the Datheon Data Analytics internship.
+This project explores sales, profitability, customer segments, regional performance, and discount patterns using Python, Pandas, Matplotlib, and Seaborn.
 
 ## Project Objective
-
 Explore customer purchase volume, monthly sales trends, category revenue, regional performance, and the relationship between discounts and profitability.
 
 ## Tools Used
